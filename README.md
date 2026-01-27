@@ -29,7 +29,6 @@ Minha formação acadêmica me proporcionou facilidade em documentar soluções,
 
 ### Repositórios 📁
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gs4ntiago&repo=Relogio-Fuso&theme=github_dark)](https://github.com/gs4ntiago/Relogio-Fuso)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gs4ntiago&repo=QuakeParser-Guilherme-Conegundes&theme=github_dark)](https://github.com/gs4ntiago/QuakeParser-Guilherme-Conegundes)
 
 ### Vamos nos conectar? 🤝
