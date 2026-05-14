@@ -26,11 +26,6 @@ Minha formação acadêmica me proporcionou facilidade em documentar soluções,
 | **HTML5 / CSS3** | **Bootstrap** | **Rest APIs** | **Power BI** |
 
 ---
-
-### Repositórios 📁
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gs4ntiago&repo=QuakeParser-Guilherme-Conegundes&theme=github_dark)](https://github.com/gs4ntiago/QuakeParser-Guilherme-Conegundes)
-
 ### Vamos nos conectar? 🤝
 
 <p align="center">
